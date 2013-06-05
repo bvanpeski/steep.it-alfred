@@ -14,7 +14,7 @@ Open Alfred Prefs (Cmd + ,) and go to the **Workflow** tab to confirm the extens
 
 # How to use
 
-Start by type ```tea``` into Alfred. Hit Tab and select either your tea type or preferred steeping time. Inputs that work include: black, green, herbal, rooibos, oolong, white, mate, chai, darjeeling as well as minute increments (3min, 5min, etc.) Hit **Enter** and a new tab will open with your timer.
+Start by typing ```tea``` into Alfred. Hit Tab and select either your tea type or preferred steeping time. Inputs that work include: black, green, herbal, rooibos, oolong, white, mate, chai, darjeeling as well as minute increments (3min, 5min, etc.) Hit **Enter** and a new tab will open with your timer.
 
 
 # Download
