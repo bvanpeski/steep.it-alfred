@@ -18,7 +18,7 @@ Start by typing ```tea``` into Alfred. Hit Tab and select either your tea type o
 
 
 # Download
-[Tea Timer Workflow](https://github.banksimple.com/CR/Productivity-Hacks/blob/master/Alfred-Extensions/Teatimer_workflow/TeaTime.alfredworkflow?raw=true)
+[Tea Timer Workflow](https://github.com/bvp663/steep.it-alfred/blob/master/TeaTimer.alfredworkflow?raw=true)
 
 
 
